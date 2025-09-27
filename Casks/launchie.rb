@@ -9,4 +9,10 @@ cask "launchie" do
   homepage "https://www.launchie.app"
 
   app "Launchie.app"
+  
+  caveats <<~EOS
+    If you're enjoying Launchie, feel free to donate or become a sponsor:
+      https://buymeacoffee.com/nickfthedev
+  EOS
+
 end
