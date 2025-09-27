@@ -11,7 +11,9 @@ cask "launchie" do
   app "Launchie.app"
   
   caveats <<~EOS
-    If you're enjoying Launchie, feel free to donate or become a sponsor:
+    ❤️  Thank you for installing Launchie!
+    If you're enjoying it, feel free to donate or become a sponsor:
+
       https://buymeacoffee.com/nickfthedev
   EOS
 
