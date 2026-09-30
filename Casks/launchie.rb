@@ -4,7 +4,7 @@ cask "launchie" do
 
   url "https://github.com/nick-friedrich/launchie-launchpad-replacement-mac-os/releases/download/#{version}/Launchie_#{version}.dmg"
   name "Launchie"
-  desc "Launchpad replacement for macOS"
+  desc "Launchpad replacement"
   homepage "https://www.launchie.app/"
 
   # Without this nothing detects new releases, which is how the cask sat on an
